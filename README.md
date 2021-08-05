@@ -18,4 +18,6 @@ No known issues so far.
 
 To contribute a config file submit the configuration with file name and description in a PR.
 
-<!-- TODO: Add LICENCE -->
+## Licence
+
+See [LICENCE](https://github.com/akathecoder/vscode-config-generator/blob/main/LICENSE) for more information.
