@@ -4,6 +4,11 @@
   "description": "Generate Config Files for Prettier, EsLint, TsConfig, etc. ",
   "version": "1.0.0",
   "publisher": "akathecoder",
+  "author": {
+    "email": "sparshaga25@gmail.com",
+    "name": "Sparsh Agarwal",
+    "url": "https://www.sparshagarwal.xyz"
+  },
   "icon": "./src/assets/icon.png",
   "repository": {
     "url": "https://github.com/akathecoder/vscode-config-generator",
