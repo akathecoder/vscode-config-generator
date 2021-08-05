@@ -10,14 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:config-generator.helloWorld"
+    "onCommand:config-generator.configGenerate"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "config-generator.helloWorld",
-        "title": "Hello World"
+        "command": "config-generator.configGenerate",
+        "title": "Generate Config Files"
       }
     ]
   },
