@@ -2,7 +2,7 @@
   "name": "config-generator",
   "displayName": "Config Generator",
   "description": "Generate Config Files for Prettier, EsLint, TsConfig, etc. ",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "akathecoder",
   "author": {
     "email": "sparshaga25@gmail.com",
