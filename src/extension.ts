@@ -11,7 +11,7 @@ export function activate(context: vscode.ExtensionContext) {
 
     if (configFile) {
       fs.readFile(
-        path.join(__dirname, '../src/data', configFile.fileName),
+        path.join(__dirname, '../src/data', configFile.dataFileName),
         {
           encoding: 'utf8',
         },

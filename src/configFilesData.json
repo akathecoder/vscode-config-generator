@@ -2,6 +2,7 @@
   {
     "label": "Prettier",
     "detail": "Prettier is a Auto Code Formatter",
+    "dataFileName": ".prettierrc.json",
     "fileName": ".prettierrc.json"
   }
 ]
