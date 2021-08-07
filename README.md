@@ -9,6 +9,11 @@ Generates Config Files for Prettier, ES Lint, Typescript etc.
 ### [1.0.0]
 
 - Initial release of Config Generator 😍🚀
+- Added Config Files for Prettier.
+
+### [1.0.1]
+
+- Added Config Files for ES Lint and TS Config.
 
 ## Known Issues
 
