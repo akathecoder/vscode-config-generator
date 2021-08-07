@@ -4,5 +4,17 @@
     "detail": "Prettier is a Auto Code Formatter",
     "dataFileName": ".prettierrc.json",
     "fileName": ".prettierrc.json"
+  },
+  {
+    "label": "ES Lint",
+    "detail": "ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.",
+    "dataFileName": ".eslintrc.js",
+    "fileName": ".eslintrc.js"
+  },
+  {
+    "label": "TS Config",
+    "detail": "The tsconfig. json file allows you to specify the root level files and the compiler options that requires to compile a TypeScript project.",
+    "dataFileName": "tsconfig.json",
+    "fileName": "tsconfig.json"
   }
 ]
